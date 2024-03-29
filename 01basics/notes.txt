@@ -1,0 +1,29 @@
+node + filename  
+  ex :  node 01_var.js
+
+datatypes:
+primitive datatypes :- 7 types  [call by value]
+   1.string
+   2.Number
+   3.boolean
+   4.null
+   5.undefined
+   6.symbol
+   7.bigInt
+        
+non-primitive datatypes :-
+   1.array      
+      const heros= ["shaktiman","batman"]
+   2.objects
+    let myObj ={
+        name:"vani",
+        age: 24,      
+    }
+
+   3.functions
+      const myFunction = function(){
+          console.log("Hello wrorld")
+       }
+
+typeof: used to check the datatype of the variable.
+ ex: console.log(typeof heros)

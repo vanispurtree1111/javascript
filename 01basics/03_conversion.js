@@ -26,3 +26,24 @@ console.log(booleanIsLoggedIn);
  let someNumber = 44
  stringNumber = String(someNumber)
  console.log(typeof stringNumber)
+
+
+ //******************************OPERATIONS******************* */
+
+ let value = 3
+ let negValue = -value
+//  console.log(negValue);
+
+let str1 = "vani"
+let str2 = "k.n"
+
+let str3= str1 + str2;
+console.log("here string",str3)
+
+let string1 = "happy";
+let string2 = " new "
+let string3 = " year"
+
+console.log(string1 + ""+string2 +""+ string3);
+
+//  prefix and postfix
